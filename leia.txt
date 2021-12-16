@@ -1,0 +1,7 @@
+--> Como utilizar o Gerador de Nitro?
+
+Para utilizar o nosso gerador de nitro é simples. 
+1. Clique em "installer" e aguarde o console ser fechado automaticamente.
+2. Clique em iniciar.
+
+Obs: É necessário ter o node.js instalado na sua maquina: https://nodejs.org/en/

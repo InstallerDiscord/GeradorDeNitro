@@ -1,0 +1,1 @@
+npm i console-title fs colors readline sync-request discord.js@12.5.2
